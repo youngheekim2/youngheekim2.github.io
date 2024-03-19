@@ -1,0 +1,126 @@
+<html>
+<head>
+<title>Seismology, Geophysics, and Tectonophysics</title>
+<link href="styles.css" rel="stylesheet" type="text/css" />
+</head>
+<body background="./imgs/lgrey091.gif">
+<br>
+<table cellpadding="0" cellspacing="0" width="1000" align="center" bgcolor="white" border="0">
+	<tr>
+		<td width="290" align="center" height="30"><img src="./imgs/logo.jpg" width="300"></td>
+		<td width="120" align="center" height="30"><a href="./index.html">Home</a></td>
+		<td width="140" align="center" height="30"><a href="./research.html">Research</a></td>
+		<td width="140" align="center" height="30"><a href="./publications.html">Publications</a></td>
+		<td width="90" align="center" height="30"><a href="./cv.html">CV</a></td>
+		<td width="140" align="center" height="30"><a href="./members.html">Members</a></td>
+<!--		<td width="90" align="center" height="30"><a href="./links.html">Links</a></td> -->
+	</tr>
+	<tr>
+		<td colspan="7" width="100%">
+			<table cellpadding="0" cellspacing="20" width="100%" align="center" bgcolor="white" border="0">
+				<tr>
+					<td><font size="5">Seismology, Geophysics, and Tectonophysics Laboratory</font><hr></td><br>
+				</tr>
+				<tr>
+					<td>
+						<table cellpadding="0" cellspacing="0" width="100%" align="center" bgcolor="white" border="0">
+							<tr>
+								<!-- <td align="center" width="250"><img src="./imgs/yh.jpg" width="170" height="200"></td> -->
+								<td align="center" width="250"><img src="./imgs/profile_2018.png" width="240"></td>
+								<td width="50">&nbsp;</td>
+								<td valign="top">
+<!--<p><b>Seismology, Geophysics, and Tectonophysics</b> at <a target="_blank" href="http://www.snu.ac.kr">Seoul National University</a><br><br> -->
+<font size="3.0">
+The primary goal of SGT laboratory is to better image the structure of the earth's crust and mantle in order to gain insight into the physical and chemical factors associated with internal geodynamic processes. 
+Questions of particular interest include: </font> 
+<ul>
+              <li><font size="2"><em><strong>the nature of tectonic processes involved in the buildup and subsequent modification of continental and oceanic lithosphere</strong></em> <br></font>
+              <li><font size="2"><em><strong>the determination of mineral and fluid-phase reactions in tectonically active regions</strong></em> <br></font>
+              <li><font size="2"><em><strong>understanding the tectonic, dynamic and magmatic processes in East Asia </strong></em><br></font>
+              <li><font size="2"><em><strong>developing  methods of how to  extract, efficiently utilize and reliably interpret seismic information </strong></em><br></font>
+              <li><font size="2"><em><strong>earthquake source mechanism.</strong></em></font></li>
+</ul>
+<font size="2.0" color="000088"><em><strong>For undergraduate internship, M.S./Ph.D., and postdoc opportunities, please e-mail Y. Kim for more information</strong></em>.
+</font></p>
+								</td>
+							</tr>
+						</table>
+					</td>
+				</tr>
+				<tr>
+					<td>
+						<table cellpadding="0" cellspacing="0" width="100%" align="center" bgcolor="white" border="0">
+							<tr>
+								<td align="left" width="250">
+									<font size="2.5"><b>YoungHee Kim, Ph.D.</b></font> <br>
+									<font size="2.5"><b>Associate Professor of Geophysics<br>Seoul National University</b></font>
+								</td>
+								<td width="50">&nbsp;</td>
+								<td valign="top">&nbsp;</td>
+							</tr>
+							<tr>
+								<td valign="top">
+									<font size="2">E-mail&nbsp;: younghkim(at)snu.ac.kr</font><br>
+									<font size="2">Phone&nbsp;&nbsp;: +82-2-880-6735</font><br>
+									<font size="2">Office&nbsp;&nbsp;: Bldg. 25-1, #513, #504</font><br>
+								</td>
+								<td width="50">&nbsp;</td>
+								<td valign="top">
+									<font size="2"><strong>News & Events</strong>
+									<ul>
+<!--
+									<li>Mar. 28, 2018. Article on the topic of earthquakes in Korea at POSTECH Times.<a target="_blank" href="./downloads/Postech_times.pdf"><img src="./imgs/pdf.png"></a> &nbsp;&nbsp;<font size="2" color="red"><b>New!</b></font>
+-->
+									<li>Mar 2020 <b>Y. Kim</b> received "Research Award" from College of Natural Sciences, SNU. &nbsp;&nbsp;<font size="2" color="red"><b>New!</b></font>  
+									<li>Oct 2019 <b>Y. Kim</b> received "Best Paper Award" from the Geological Society of Korea.   
+									<li>May 2019- <b>Y. Kim</b> joined the editorial board of Bulletin of the Seismological Society of America (BSSA), serving as an Associate Editor.   
+									<li>Apr. 18, 2019. <b>E. Kim</b> received Best Paper Award (oral presentation) in Geological Society of Korea meeting.  
+									<li>Mar. 28, 2018. Article on the topic of earthquakes in Korea at POSTECH Times.<a target="_blank" href="./downloads/Postech_times.pdf"><img src="./imgs/pdf.png"></a>
+									<li>Nov. 1, 2017. <b>Y. Kim</b> received 'Suh Jung-Hee' (Young Scientist) Award at KSEG meeting. 
+									<li>Nov. 1, 2017. <b>H. Lim</b> received Best Paper Award (poster presentation) at KSEG meeting. 
+									<li>Jun. 16, 2017. <b>H. Kim</b> received Undergraduate Thesis Award at SEES, SNU. 
+									<li>May. 11, 2017. <b>H. Kim</b> received Best Paper Award (poster presentation) at KSEG meeting. 
+									<li>Mar. 1, 2017. <b>H. Kim</b> received Best Undergraduate Project Award at SNU. 
+									<li>Dec. 2, 2016. <b>Y. Kim</b> received "30 young scientists to shine Korea" award by Pohang University of Science and Technology (POSTECH). 
+									<li>Oct. 27, 2016. <b>H. Kim</b> received Best Paper Award (poster presentation) in Geological Society of Korea meeting. 
+									<li>Oct. 14, 2016. <b>Y. Kim</b> acquired a visiting professor position in Earthquake Research Institute, University of Tokyo. 
+									<li>Sep. 8, 2016. <b>S. Hyung</b> received "Global Ph.D. Fellowship" from National Research Foundation of Korea. 
+									<li>Sep. 1, 2016. <b>Y. Kim</b> recognized as "Creative-Pioneering Researcher" grant recipient in SNU. 
+									<li>May. 13, 2016. "Petroleum Geology" selected as a book of the year in Natural Science division by the National Academy of Sciences, Korea. 
+									<li>Apr. 21, 2016. <b>H. Jang</b> received Best Paper Award (poster presentation) in Korean Society of Economic and Environmental Geology meeting. 
+									<li>Mar. 25, 2016. <b>Y. Kim</b> received Distinguished Teaching Award in College of Natural Sciences, SNU. 
+									<li>Jan. 4, 2016.  New book on "Petroleum Geology (Korean)" available!&nbsp;<font size="1.5"><a target="_blank" href="http://www.sigmapress.co.kr/shop/m_mall_detail.php?ps_ctid=&ps_goid=2369&depth_2_display=none">LINK</a></font>.
+									<li>Nov. 10, 2015.  <b>E. Kim</b> received "young scientist award" at Asian Marine Geology conference.&nbsp;&nbsp;
+									<li>2015-2016. Articles on the topics in seismology at EESK newsletter (Korean).<a target="_blank" href="./downloads/EESK_15_2_33.pdf"><img src="./imgs/pdf.png">&nbsp;<a target="_blank" href="./downloads/EESK_15_4.pdf"><img src="./imgs/pdf.png">&nbsp;<a target="_blank" href="./downloads/EESK_16_3.pdf"><img src="./imgs/pdf.png"></a>&nbsp;&nbsp;
+									<li>Aug 27, 2014.  <b>Y. Kim</b> receives funds from National Research Foundation of Korea under Global Research Network Program.
+									<li>May 8, 2014. <b>Y. Kim</b> recognized as "Aspiring Young Researcher" grant recipient in Seoul National Univ.
+									<li>Apr 22, 2014. <b>H. Lim</b> received "Best poster presentation award" at GSTK conference
+									<li>Oct 25, 2013. <b>Y. Kim</b> recognized as" Young Scientist Award" recipient from the Geological Society of Korea
+									<li>Sep 2012-2013. <b>Y. Kim</b> featured in SNU SEES Newsletters (Korean)<a target="_blank" href="./downloads/sees_33.pdf"><img src="./imgs/pdf.png"></a>&nbsp;<a target="_blank" href="./downloads/sees_30.pdf"><img src="./imgs/pdf.png"></a> 
+									</ul>
+									</font>
+								</td>
+							</tr>
+						</table>
+					</td>
+				</tr> 
+				<!-- white space at the bottom -->
+				<tr>
+					<td width="100%" height="100">
+						<table cellpadding="0" cellspacing="0" width="100%" align="center" bgcolor="white" border="0">
+							<tr>
+								<td align="center" width="250">&nbsp;</td>
+								<td width="50">&nbsp;</td>
+								<td valign="top">
+								</td>
+							</tr>
+						</table>
+					</td>
+				</tr>
+			</table>
+		</td>
+	</tr>
+</table>
+<br>
+</body>
+</html>
